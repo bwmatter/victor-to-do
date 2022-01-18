@@ -69,7 +69,7 @@ NEED
 - A Healthier Way to Work
     - [x] Image
 - Corporate Discounts
-    - [] Image
+    - [ ] Image
         - Confirm I am using 'shutterstock_629196308' or something else.
 - Need More Information?
     - [x] Image
@@ -88,6 +88,14 @@ NEED
 
 ### *Nearly Complete*
 
+#### \*** Homepage \***
+
+```
+TODO
+- Regular Styling with rest of site
+```
+
+
 #### \*** Contact Us \***
 
 ```
@@ -95,10 +103,9 @@ NEED
 1. Need Hero Image (Full width or two column)
 ```
 
-```
-TODO
-1. Bobby to Finish Styling (Custom side column with contact information)
-```
+~~Bobby to Finish Styling (Custom side column with contact information)~~
+
+
 
 #### \*** Careers \***
 
