@@ -160,12 +160,21 @@ NEED
     - No Hero Image
 ```
 
-***
-### *Need to Add Content*
-
 #### \*** Resources \***
 
-Doing this page today. (I think I waited to do it until I finish the Search feature, which I did on Friday).  
+__Update__
+
+Page and content created.
+
+```
+TODO
+1. Finish styling with rest of site.
+```
+
+
+
+***
+### *Need to Add Content*
 
 
 #### \*** Bulk Discounts \***
