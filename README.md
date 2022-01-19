@@ -208,6 +208,11 @@ TODO
 2. Config sending data to HubSpot (req'd for launch)
 ```
 
+### *Grey Diamonds*
+
+- Once all pages are styled for XL breakpoint, the diamonds will be added in after. Placement/testing of the diamonds is going to depend on the content.
+
+
 ### *WooCommerce (WC) Related*
 
 1. Payment Gateway setup
