@@ -215,7 +215,7 @@ TODO
 2. Order Fulfillment
     - Set up basic WC fulfillment
     - Order Email Notifications / Triggers
-3. Apply Basic/Minimal Styling to the WooCommerce Account pages
+3. ~~Apply Basic/Minimal Styling to the WooCommerce Account pages~~ (Completed for XL and Up)
 4. Set up Shipping / Sage Integration
     - This will depend on timing and difficulty TBD
 
