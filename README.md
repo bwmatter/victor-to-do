@@ -211,7 +211,7 @@ TODO
 ### *WooCommerce (WC) Related*
 
 1. Payment Gateway setup
-    - Emailed Nick G for Test API Key on Jan 18, 2022.
+    - Emailed Nick G for Test Stripe API Key on Jan 18, 2022.
 2. Order Fulfillment
     - Set up basic WC fulfillment
     - Order Email Notifications / Triggers
