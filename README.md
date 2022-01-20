@@ -24,14 +24,16 @@ TODO
 ## Product Parent Categories 
 (Calculators, Desk Org, Office Accessories, Standing Desks)
 
-- Exception of Standing Desk, the featured image (the image that appears in the right hand column of the hero for these categories), need to be produced and then added to the website.
+~~Exception of Standing Desk, the featured image (the image that appears in the right hand column of the hero for these categories), need to be produced and then added to the website.~~
 
-```
-NEED
-1. Office Accessories Side Image
-2. Desk Org Side Image
-3. Calculators Side Image 
-```
+
+<s>NEED</s><br>
+<s>Office Accessories Side Image</s><br>
+<s>Desk Org Side Image</s><br>
+<s>Calculators Side Image</s><br>
+
+***Done!***
+
 
 ## Product Sub Categories
 (5x Calculators, 3x Desk Orgs, 3x Office Accessories, 4x Standing Desks)
