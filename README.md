@@ -38,8 +38,7 @@ TODO
 ## Product Sub Categories
 (5x Calculators, 3x Desk Orgs, 3x Office Accessories, 4x Standing Desks)
 
-- These category pages have full width hero images.
-- These images all need to be produced and added to the website. (It's all placeholders at this point).
+
 
 
 ## Search Popup/Search Results page
@@ -161,13 +160,20 @@ TODO
 
 #### \*** Warranty \***
 
+
+<s>NEED</s>
+<s>1. Does this page have</s>
+    <s>- A full width hero image</s>
+    <s>- Two Column Image</s>
+    <s>- No Hero Image</s>
+
+***Done!***
+
 ```
-NEED
-1. Does this page have 
-    - A full width hero image
-    - Two Column Image
-    - No Hero Image
+TODO
+1. Finish styling with rest of site.
 ```
+
 
 #### \*** Resources \***
 
